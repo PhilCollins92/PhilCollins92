@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 # 💫 About Me:
 i'm currently working on React native project and <br>I'm looking for a mentor in JAVA for improve my skills.<br><br>
 # 💻 Tech Stack:
@@ -15,6 +13,3 @@ i'm currently working on React native project and <br>I'm looking for a mentor i
 
 ---
 [![](https://visitcount.itsvg.in/api?id=philCollins92&icon=2&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
